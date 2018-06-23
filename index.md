@@ -2,7 +2,7 @@
 layout: index
 ---
 <div class="copy">
-  <h2>{{ site.data.app.title }}</h2>
+  <h2 class="editable">{{ site.data.app.title }}</h2>
   <p>{{ site.data.app.description | markdownify }}</p>
   <h2>The Best of Both Worlds.</h2>
   <p>{{ site.data.app.combination }}</p>
