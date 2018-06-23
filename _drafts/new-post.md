@@ -1,6 +1,10 @@
 ---
 layout: post
-title: New Post
-date: 2017-03-01 12:47:12 -0500
-categories: jekyll vue
+title: Newest Post
+date: 2018-06-23 17:47:00
+categories:
+  - jekyll
+  - vue
 ---
+
+This is a new post to see if it works corretly
